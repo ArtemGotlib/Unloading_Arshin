@@ -1,2 +1,4 @@
 # Unloading_Arshin
-Выгрузка сведений из ФГИС "Аршин" в excel или БД
+Выгрузка сведений с сайта ФГИС "Аршин" в excel или БД.
+
+Сайт: https://fgis.gost.ru/fundmetrology/registry/4
